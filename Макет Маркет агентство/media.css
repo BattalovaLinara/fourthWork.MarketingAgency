@@ -1,0 +1,580 @@
+@media (min-width: 1380px) {
+    body {
+        font-size: 25px;  
+    }
+    /******************************/
+    .header-nav {
+        margin: 50px auto 80px;
+        max-width: 1340px;
+    }
+    .header-container {
+        max-width: 1340px;
+        margin: auto;
+    }
+    .header-container-text h1 {
+        margin-bottom: 15px;
+        font-size: 65px;
+    }
+    .header-container-text h6 {
+        margin: 35px 0 5px;
+        font-size: 18px;
+    }
+    .description {
+        margin-bottom: 30px;
+    }
+    .button {
+        width: 220px;
+        height: 60px;
+        border-radius: 30px;
+        font-size: 20px;
+        line-height: 60px;   
+    }
+    .header-image {
+        object-fit: contain;
+        object-position: center;  
+    }
+    /******************************/
+    .main-container {
+        max-width: 1340px;
+        margin: 130px auto;
+        padding: 0 15px;
+    }
+    /******************************/
+    .section h2 {
+        font-size: 40px;
+    }
+    section+section {
+        margin-top: 150px;
+    }
+    .section, .two {
+        column-gap: 30px;
+    }
+    .one-text h2 {
+        margin: 130px 0 30px; 
+    }
+    .two-cards {
+        column-gap: 30px;
+        padding-top: 130px;
+    }
+    .card {
+        width: 400px;
+        height: 450px;
+        padding: 50px 10px ;
+        text-align: center;
+    }  
+    /******************************/
+    .three-cards {
+        margin-top: 60px;
+    }
+    .three-cards .card {
+        padding: 100px 10px;
+    }
+    .circle p {
+        font-size: 95px;
+    }
+    /******************************/
+    .blog h3 {
+        margin-bottom: 10px;
+    }
+    .blog h2 {
+        margin-bottom: 30px;
+    }
+    .article {
+        max-height: 800px;
+    }
+    .left {
+        padding: 80px 0;  
+    }
+    .middle img {
+        margin-bottom: 70px;
+    }
+    .right p {
+        margin-bottom: 35px;
+    }
+    .right h4 {
+        margin-bottom: 15px;
+    }
+    .right img {
+        margin-bottom: 15px;
+    }
+    /******************************/
+    .footer-container {
+        max-width: 1340px;
+        padding: 50px 0 30px;
+    }
+    .copyright {
+        padding: 15px 0;
+    }
+    .info p {
+        font-size: 22px;
+    }
+    input {
+        width: 250px;
+        height: 50px;
+        padding: 0 15px;
+    }
+}
+
+@media (max-width: 1380px) {
+    body {
+        font-size: 25px;  
+    }
+    /******************************/
+    .header-nav {
+        margin: 50px auto 80px;
+        max-width: 1240px;
+    }
+    .header-container {
+        max-width: 1240px;
+        margin: auto;
+    }
+    .header-container-text h1 {
+        margin-bottom: 15px;
+        font-size: 65px;
+    }
+    .header-container-text h6 {
+        margin: 35px 0 5px;
+        font-size: 18px;
+    }
+    .description {
+        margin-bottom: 30px;
+    }
+    .button {
+        width: 220px;
+        height: 60px;
+        border-radius: 30px;
+        font-size: 20px;
+        line-height: 60px;   
+    }
+    .header-image {
+        object-fit: contain;
+        object-position: center;  
+    }
+    /******************************/
+    .main-container {
+        max-width: 1340px;
+        margin: 130px auto;
+        padding: 0 15px;
+    }
+    /******************************/
+    .section h2 {
+        font-size: 40px;
+    }
+    section+section {
+        margin-top: 150px;
+    }
+    .section, .two {
+        column-gap: 30px;
+    }
+    .one-text h2 {
+        margin: 130px 0 30px; 
+    }
+    .two-cards {
+        column-gap: 30px;
+        padding-top: 130px;
+    }
+    .card {
+        width: 400px;
+        height: 450px;
+        padding: 50px 10px ;
+        text-align: center;
+    }  
+    /******************************/
+    .three-cards {
+        margin-top: 60px;
+    }
+    .three-cards .card {
+        padding: 100px 10px;
+    }
+    .circle p {
+        font-size: 95px;
+    }
+    /******************************/
+    .blog h3 {
+        margin-bottom: 10px;
+    }
+    .blog h2 {
+        margin-bottom: 30px;
+    }
+    .article {
+        max-height: 800px;
+    }
+    .left {
+        padding: 80px 0;  
+    }
+    .middle img {
+        margin-bottom: 70px;
+    }
+    .right p {
+        margin-bottom: 35px;
+    }
+    .right h4 {
+        margin-bottom: 15px;
+    }
+    .right img {
+        margin-bottom: 15px;
+    }
+    /******************************/
+    .footer-container {
+        max-width: 1340px;
+        padding: 50px 0 30px;
+    }
+    .copyright {
+        padding: 15px 0;
+    }
+    .info p {
+        font-size: 22px;
+    }
+    input {
+        width: 250px;
+        height: 50px;
+        padding: 0 15px;
+    }
+}
+
+
+
+@media (max-width: 1200px) {
+    body {
+        font-size: 20px;  
+    }
+    /******************************/
+    .header-nav {
+        margin: 40px auto 110px;
+        max-width: 970px;
+    }
+    .header-container {
+        max-width: 1000px;
+        margin: auto;
+    }
+    .header-container-text h6 {
+        margin: 35px 0 5px;
+        font-size: 18px;
+    }
+    .header-container-text h1 {
+        margin-bottom: 15px;
+        font-size: 50px;
+    }
+    .description {
+        margin-bottom: 30px;
+    }
+    .button {
+        width: 200px;
+        height: 50px;
+        margin-left: 90px;
+        border-radius: 30px;
+        font-size: 20px;
+        line-height: 50px;   
+    }
+    .header-image {
+        object-fit: contain;
+        object-position: center;  
+    }
+    /******************************/
+    .main-container {
+        max-width: 970px;
+        margin: 150px auto;
+        padding: 0 15px;
+    }
+    section+section {
+        margin-top: 150px;
+    }
+    /******************************/
+    .one-text h2 {
+        margin: 80px 0 30px;
+    }
+    /******************************/
+    .card {
+        width: 370px;
+        height: 350px;
+        padding: 50px 10px ;
+        text-align: center;
+    } 
+    .two-cards {
+        padding-top: 100px;
+    }
+    .upper-card {
+        bottom: 50px;  
+    }
+    .two-text h2 {
+        font-size: 30px;
+    }  
+    .three-text h2{
+        font-size: 30px;
+    }
+    /******************************/
+    .circle p {
+        font-size: 75px;
+    }
+    .three-cards .card {
+        padding: 80px 10px;
+    }
+    /******************************/
+    .blog h3 {
+        margin-bottom: 10px;
+    }
+    .blog h2 {
+        margin-bottom: 30px;
+    }
+    .article {
+        max-height: 600px;
+    }
+    .left {
+        padding: 60px 0;  
+    }
+    .right h4 {
+        margin-bottom: 15px;
+    }
+    .right img {
+        margin-bottom: 15px;
+    }
+    /******************************/
+    .footer-container {
+        max-width: 970px;
+        padding: 35px 0 20px;
+    }
+    .copyright {
+        padding: 15px 0;
+    }
+    .info h4 {
+        margin-bottom: 20px;
+    }
+    .info p {
+        font-size: 20px;
+    }
+    input {
+        width: 210px;
+        height: 35px;
+        padding: 0 15px;
+    }
+}
+
+
+@media (max-width: 899px) {             /*768*/
+    body {
+        font-size: 16px;  
+    }
+    /******************************/
+    .menu-btn {
+        display: block;
+        width: 30px;
+        height: 30px;
+        
+    }
+
+    .nav {
+        position: absolute;
+        top: 0;
+        right: -100%; 
+        width: 50%;
+        height: 100%;
+    }
+
+    .nav._active {
+        display: flex;
+        flex-direction: column;
+        top: 0;
+        right: 0;
+        max-width: 50%;
+        max-height: 100%;
+        padding: 50px;
+        background-color: #F7A32D;
+        opacity: 0.8;
+        overflow: auto
+    }
+
+    .nav._active .nav-link {
+        margin-bottom: 15px;
+    }
+
+    .nav._active .nav-link:hover {
+        color: white;
+    }
+    /******************************/
+    .header-nav {
+        margin: 20px auto 60px;
+        max-width: 700px;
+    }
+    .header-container {
+        max-width: 700px;
+        margin: auto;
+    }
+    .header-container-text h6 {
+        margin: 35px 0 5px;
+        font-size: 14px;
+    }
+    .header-container-text h1 {
+        margin-bottom: 15px;
+        font-size: 40px;
+    }
+    .description {
+        margin-bottom: 30px;
+    }
+    .button {
+        width: 170px;
+        height: 40px;
+        margin-left: 0;
+        border-radius: 20px;
+        font-size: 16px;
+        line-height: 40px;   
+    }
+    .header-image {
+        object-fit: contain;
+        object-position: center;  
+    }
+    /******************************/
+    .main-container {
+        max-width: 700px;
+        margin: 150px auto;
+        padding: 0 15px;
+    }
+    section+section {
+        margin-top: 150px;
+    }
+    .section h2 {
+        font-size: 30px;
+    }
+    /******************************/
+    .one-text h2 {
+        margin: 30px 0 30px;
+    }
+    /******************************/
+    .card {
+        width: 210px;
+        height: 300px;
+        padding: 50px 10px ;
+        text-align: center;
+    } 
+    /******************************/
+    .blog h3 {
+        margin-bottom: 10px;
+    }
+    .blog h2 {
+        margin-bottom: 30px;
+    }
+    .article {
+        max-height: 470px;
+    }
+    .left {
+        padding: 40px 0;  
+    }
+    .right h4 {
+        margin-bottom: 15px;
+    }
+    .right img {
+        margin-bottom: 10px;
+    }
+
+    /******************************/
+    .footer-container {
+        max-width: 700px;
+        padding: 35px 0 20px;
+    }
+    .copyright {
+        padding: 10px 0;
+    }
+    .info h4 {
+        margin-bottom: 15px;
+    }
+    .info p {
+        font-size: 16px;
+    }
+    input {
+        width: 210px;
+        height: 35px;
+        padding: 0 15px;
+    }
+}
+
+@media (max-width: 499px) {       /*374*/
+    body {
+        font-size: 20px;  
+    }
+    .header-nav {
+        margin: 20px auto 15px;
+        max-width: 350px;
+    }
+    .header-container {
+        margin: 0 auto;
+        padding: 0 15px;
+        max-width: 350px;
+        display: flex;
+        flex-direction: column;
+    }
+    section+section {
+        margin-top: 50px;
+    }
+
+    .section h2 {
+        font-size: 23px;
+    }
+
+    /******************************/
+    .one {
+        display: flex;
+        flex-direction: column;
+    }
+    /******************************/
+    .two-cards {
+        flex-direction: column;
+        row-gap: 30px;
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+    .card {
+        width: 280px;
+        height: 320px;
+        padding: 10px ;  
+    } 
+    .upper-card {
+        bottom: 0px;  
+    }
+    .three-cards {
+        flex-direction: column;
+        row-gap: 30px;
+        margin: 30px auto 0;
+        width: 280px;   
+    }
+    .four {
+        flex-direction: column;
+        row-gap: 30px;
+    }
+    .articles {
+        flex-direction: column;
+        row-gap: 20px;
+    }
+    .article {
+        overflow: hidden;
+    }
+    .article p {
+        margin-bottom: 25px;
+    }
+    .middle img {
+        margin-bottom: 50px;
+    }
+    /******************************/
+    .footer-container {
+        max-width: 350px;
+        padding: 25px 0 20px;
+    }
+    .info {
+        text-align: center;
+    }
+    .copyright {
+        padding: 6px 0;
+    }
+    .info h4 {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .info p {
+        font-size: 11px;
+        margin-bottom: 10px;
+    }
+    input {
+        display: none;
+    }
+    .subscribe {
+        display: none;
+    }
+}
